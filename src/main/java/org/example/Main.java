@@ -23,7 +23,6 @@ public class Main {
                 System.out.println("Entrada inválida. Debe ingresar un número.");
                 continue;
             }
-
             try {
                 switch (opcion) {
                     case 1:
